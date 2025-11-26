@@ -1,0 +1,204 @@
+trackName,country,collectionPrice,trackPrice,collectionHdPrice,releaseDate,trackExplicitness,genres,contentAdvisoryRating,trackCount,isStreamable
+The Beatles: In the Life,USA,7.99,7.99,9.99,2019-10-15,notExplicit,,NR,,False
+Behind the Lyrics: The Beatles,USA,7.99,7.99,9.99,2022-11-29,notExplicit,,PG,,False
+The Beatles: Parting Ways,USA,3.99,3.99,,2010-07-27,notExplicit,,NR,,False
+The Beatles: A Celebration,USA,7.99,7.99,,1999-03-16,notExplicit,,NR,,False
+The Beatles Explosion,USA,7.99,7.99,,2008-01-01,notExplicit,,NR,,False
+"Going Underground: McCartney, The Beatles and the UK Counter-culture",USA,12.99,12.99,,2017-03-21,notExplicit,,NR,,False
+The Beatles and India,USA,9.99,9.99,9.99,2022-05-24,notExplicit,,NR,,False
+A Record Deal,USA,18.99,2.99,24.99,2021-03-08,notExplicit,,TV-PG,10,False
+,USA,32.99,,,2013-10-29,,,,2,False
+,USA,19.99,,,2005-11-01,,,,1,False
+,USA,19.99,,,2010-03-18,,,,1,False
+,USA,14.99,,,2021-01-05,,,,1,False
+,USA,14.99,,,2019-10-29,,,,1,False
+,USA,4.99,,,2023-11-14,,,,1,False
+,USA,19.99,,,2017-04-25,,,,2,False
+,USA,2.99,,,2018-10-30,,,,1,False
+,USA,25.99,,,2013-07-30,,,,2,False
+,USA,19.99,,,2024-04-09,,,,1,False
+,USA,3.99,,,2025-05-06,,,,1,False
+,USA,12.99,,,2024-08-22,,,,1,False
+,USA,6.99,,,2021-12-01,,,,1,False
+,USA,3.99,,,2025-07-22,,,,1,False
+,USA,17.99,,,2018-11-06,,,,1,False
+,USA,1.99,,,2024-11-08,,,,1,False
+,USA,4.99,,,2023-06-06,,,,1,False
+,USA,14.99,,,2019-12-14,,,,1,False
+,USA,4.99,,,2019-06-25,,,,1,False
+,USA,17.99,,,2012-03-11,,,,2,False
+,USA,12.99,,,2022-08-26,,,,1,False
+,USA,5.99,,,2016-03-25,,,,1,False
+,USA,4.99,,,2007-09-27,,,,4,False
+,USA,12.99,,,2024-11-21,,,,1,False
+,USA,12.99,,,2024-09-17,,,,1,False
+"Screw It, We're Just Gonna Talk About the Beatles",USA,0.0,0.0,0.0,2025-11-26,cleaned,"['Music', 'Podcasts', 'Arts', 'Performing Arts']",Clean,33,False
+One Sweet Dream: A  Beatles Podcast,USA,0.0,0.0,0.0,2024-12-31,explicit,"['Music History', 'Podcasts', 'Music', 'Music Interviews']",Explicit,69,False
+The Beatles Anthology Podcast,USA,0.0,0.0,0.0,2016-04-05,cleaned,"['Music', 'Podcasts']",Clean,3,False
+Another Kind of Mind: A Different Kind of Beatles Podcast,USA,0.0,0.0,0.0,2025-11-13,explicit,"['Music', 'Podcasts']",Explicit,76,False
+Nothing Is Real - A Beatles Podcast,USA,0.0,0.0,0.0,2025-11-24,cleaned,"['Music', 'Podcasts']",Clean,137,False
+Things We Said Today Beatles Radio Show,USA,0.0,0.0,0.0,2025-10-23,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,300,False
+Something About the Beatles,USA,0.0,0.0,0.0,2025-11-20,cleaned,"['Music History', 'Podcasts', 'Music', 'Music Interviews']",Clean,213,False
+The Beatles: Note By Note,USA,0.0,0.0,0.0,2025-11-22,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,123,False
+The Beatles Multi-Track Meltdown,USA,0.0,0.0,0.0,2025-11-06,cleaned,"['Music', 'Podcasts']",Clean,101,False
+Get Back to the Beatles,USA,0.0,0.0,0.0,2025-11-05,cleaned,"['Society & Culture', 'Podcasts']",Clean,62,False
+Fixing A Hole - The Beatles podcast you didn't know you needed,USA,0.0,0.0,0.0,2025-11-14,cleaned,"['Music History', 'Podcasts', 'Music', 'Music Commentary']",Clean,34,False
+Talk More Talk: A Solo Beatles Videocast,USA,0.0,0.0,0.0,2025-11-19,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,100,False
+I am the EggPod,USA,0.0,0.0,0.0,2024-07-27,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Arts', 'Performing Arts']",Clean,137,False
+Producing The Beatles,USA,0.0,0.0,0.0,2025-11-10,cleaned,"['Music', 'Podcasts', 'Arts', 'Performing Arts']",Clean,19,False
+McCartney: A Life in Lyrics,USA,0.0,0.0,0.0,2024-04-17,cleaned,"['Arts', 'Podcasts', 'Music']",Clean,26,False
+BC the Beatles,USA,0.0,0.0,0.0,2024-11-25,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,100,False
+Take It Away: The Complete Solo Beatles Podcast,USA,0.0,0.0,0.0,2025-09-18,cleaned,"['Music', 'Podcasts', 'Arts', 'Performing Arts']",Clean,62,False
+Buskin with The Beatles,USA,0.0,0.0,0.0,2025-11-21,cleaned,"['Music History', 'Podcasts', 'Music', 'Arts', 'Performing Arts']",Clean,100,False
+Ranking The Beatles,USA,0.0,0.0,0.0,2025-10-17,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,150,False
+I want to tell you about the Beatles,USA,0.0,0.0,0.0,2023-05-15,cleaned,"['Music', 'Podcasts']",Clean,41,False
+Compleatly Beatles,USA,0.0,0.0,0.0,2014-07-09,cleaned,"['Music History', 'Podcasts', 'Music', 'Music Commentary']",Clean,16,False
+"The Beatles, the Bible, and Beyond with Ken Mansfield and Brian Mason",USA,0.0,0.0,0.0,2023-01-09,cleaned,"['Christianity', 'Podcasts', 'Religion & Spirituality', 'Music']",Clean,23,False
+The Chords of The Beatles,USA,0.0,0.0,0.0,2022-05-01,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,2,False
+The Beatles are the Greatest Rock Band of All Time and I Can Prove It,USA,0.0,0.0,0.0,2022-11-12,cleaned,"['Music History', 'Podcasts', 'Music', 'Music Commentary']",Clean,15,False
+"Here, There, and Everywhere: A Beatles Podcast",USA,0.0,0.0,0.0,2025-04-05,cleaned,"['Music Interviews', 'Podcasts', 'Music', 'Music History']",Clean,78,False
+The Beatles Films Podcast,USA,0.0,0.0,0.0,2025-11-17,cleaned,"['Music', 'Podcasts', 'TV & Film', 'Film Reviews']",Clean,91,False
+What A Fab Day: A Podcast About The Beatles,USA,0.0,0.0,0.0,2022-12-31,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,366,False
+APPLE JAM - THE BEATLES COLLECTION,USA,0.0,0.0,0.0,2025-11-16,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,129,False
+A Year With The Beatles,USA,0.0,0.0,0.0,2017-10-21,cleaned,"['Music', 'Podcasts']",Clean,19,False
+When They Was Fab: Electric Arguments About the Beatles,USA,0.0,0.0,0.0,2025-11-24,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,263,False
+The Beatles: Album By Album,USA,0.0,0.0,0.0,2021-07-16,explicit,"['Music History', 'Podcasts', 'Music']",Explicit,1,False
+Thank God for the Beatles!,USA,0.0,0.0,0.0,2023-11-26,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,14,False
+Tea Time with The Beatles Fans,USA,0.0,0.0,0.0,2022-03-21,cleaned,"['Music', 'Podcasts']",Clean,13,False
+The Beatles...The Hidden Truth.,USA,0.0,0.0,0.0,2023-09-25,explicit,"['Performing Arts', 'Podcasts', 'Arts']",Explicit,6,False
+The Beatles,USA,0.0,0.0,0.0,2021-05-08,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,3,False
+Beatles60,USA,0.0,0.0,0.0,2025-05-04,explicit,"['Music History', 'Podcasts', 'Music']",Explicit,37,False
+Your Own Personal Beatles,USA,0.0,0.0,0.0,2025-11-19,cleaned,"['Music', 'Podcasts', 'Comedy']",Clean,74,False
+The Beatles - First Time South,USA,0.0,0.0,0.0,2023-11-09,cleaned,"['Music History', 'Podcasts', 'Music', 'Music Interviews']",Clean,1,False
+The Beatles - Audio Biography,USA,0.0,0.0,0.0,2024-02-24,cleaned,"['Arts', 'Podcasts', 'Business', 'Careers']",Clean,1,False
+Becoming The Beatles - Die Hamburger Jahre,USA,0.0,0.0,0.0,2025-07-29,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,9,False
+The Beatles Come To America,USA,0.0,0.0,0.0,2025-11-01,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,58,False
+Why The Beatles Matter,USA,0.0,0.0,0.0,2025-02-23,cleaned,"['Music', 'Podcasts']",Clean,10,False
+The Beatles Stuffology Podcast,USA,0.0,0.0,0.0,2025-11-26,explicit,"['Music Commentary', 'Podcasts', 'Music']",Explicit,105,False
+The Spiritual Dimension of the Beatles,USA,0.0,0.0,0.0,2025-04-11,cleaned,"['Spirituality', 'Podcasts', 'Religion & Spirituality', 'Music', 'Music Commentary']",Clean,7,False
+Without the Beatles,USA,0.0,0.0,0.0,2025-11-12,cleaned,"['Arts', 'Podcasts', 'Music', 'Music Interviews']",Clean,14,False
+The Beatles,USA,0.0,0.0,0.0,2020-10-28,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,1,False
+All the Beatles songs,USA,0.0,0.0,0.0,2025-03-14,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,25,False
+The Beatles' Legacy: Red and Blue,USA,0.0,0.0,0.0,2023-11-09,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,1,False
+Beatles60,USA,0.0,0.0,0.0,2025-05-04,explicit,"['Music History', 'Podcasts', 'Music']",Explicit,37,False
+The Beatles: They Came to a Land Downunder,USA,0.0,0.0,0.0,2024-08-22,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,12,False
+Elsker The Beatles,USA,0.0,0.0,0.0,2025-11-15,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,158,False
+The Beatles World Cup,USA,0.0,0.0,0.0,2023-05-03,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,59,False
+Un Día En La Vida (The Beatles Podcast),USA,0.0,0.0,0.0,2020-10-30,explicit,"['Music Commentary', 'Podcasts', 'Music']",Explicit,5,False
+The Beatles' English,USA,0.0,0.0,0.0,2023-12-06,cleaned,"['Language Learning', 'Podcasts', 'Education', 'Arts', 'Performing Arts']",Clean,12,False
+Buskin with The Beatles,USA,0.0,0.0,0.0,2025-11-21,cleaned,"['Music History', 'Podcasts', 'Music', 'Arts', 'Performing Arts']",Clean,100,False
+"Bringin' It Back to...""The Beatles""",USA,0.0,0.0,0.0,2023-10-07,cleaned,"['Music Interviews', 'Podcasts', 'Music']",Clean,17,False
+Justin Hawkins Rides Again,USA,0.0,0.0,0.0,2024-02-06,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,36,False
+BeatlesBanter-where two guys talk about their love for the Beatles,USA,0.0,0.0,0.0,2025-11-19,cleaned,"['Music', 'Podcasts']",Clean,5,False
+Andrew Kirby's - About The Beatles,USA,0.0,0.0,0.0,2025-09-30,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,1,False
+The Beat-Alls: Podcast De The Beatles En Español,USA,0.0,0.0,0.0,2020-07-25,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,1,False
+The beatles-Micaela Lemiña,USA,0.0,0.0,0.0,2020-06-26,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,1,False
+Syv vilde år med The Beatles,USA,0.0,0.0,0.0,2020-08-21,cleaned,"['Music', 'Podcasts']",Clean,16,False
+A Hard Day's Night:Un Gran Disco De The Beatles,USA,0.0,0.0,0.0,2021-09-06,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,1,False
+Tony Cantwell's Hit Show,USA,0.0,0.0,0.0,2024-11-05,explicit,"['Comedy', 'Podcasts']",Explicit,233,False
+We Disagree About The Beatles,USA,0.0,0.0,0.0,2021-10-18,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,9,False
+Web Go The Beatles,USA,0.0,0.0,0.0,2025-04-18,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,97,False
+The BEATles,USA,0.0,0.0,0.0,2020-11-13,cleaned,"['Education', 'Podcasts']",Clean,1,False
+The Beatles - Apple Jam,USA,0.0,0.0,0.0,2017-11-10,cleaned,"['Music', 'Podcasts']",Clean,93,False
+The Beatles Reversed,USA,0.0,0.0,0.0,2020-12-23,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,1,False
+Dan Hates The Beatles,USA,0.0,0.0,0.0,2023-01-08,explicit,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Explicit,29,False
+Scarafaggi - Across The Beatles,USA,0.0,0.0,0.0,2023-06-26,cleaned,"['Society & Culture', 'Podcasts', 'Fiction']",Clean,13,False
+I Am The Podman: A Beatles Podcast Review,USA,0.0,0.0,0.0,2024-07-03,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,9,False
+A Day in The BEATLES,USA,0.0,0.0,0.0,2022-03-16,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,368,False
+Collecting The Beatles,USA,0.0,0.0,0.0,2021-05-18,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,3,False
+here comes the beatles,USA,0.0,0.0,0.0,2019-12-08,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,1,False
+All You Need Is Love...And The Beatles,USA,0.0,0.0,0.0,2020-11-12,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,1,False
+The Beatles Experience,USA,0.0,0.0,0.0,2020-06-29,cleaned,"['Music', 'Podcasts']",Clean,1,False
+Fab4Cast - The Dutch Beatles Podcast,USA,0.0,0.0,0.0,2025-11-21,cleaned,"['Music', 'Podcasts']",Clean,253,False
+The Quarrelmen Beatles podcast,USA,0.0,0.0,0.0,2025-11-12,cleaned,"['Performing Arts', 'Podcasts', 'Arts']",Clean,4,False
+The Progressive Rock Psychedelic BeatlesPop Show!,USA,0.0,0.0,0.0,2024-08-02,cleaned,"['Music', 'Podcasts']",Clean,50,False
+The Big Beatles and 60s Sort Out,USA,0.0,0.0,0.0,2025-11-24,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,188,False
+The Kinks and Beatles Daily Deep Dive,USA,0.0,0.0,0.0,2023-11-07,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,252,False
+"Fans On The Run: A Podcast Made By, For And About Beatles Fans",USA,0.0,0.0,0.0,2025-01-25,explicit,"['Music History', 'Podcasts', 'Music']",Explicit,97,False
+Arrive Without Travelling - The podcast for Beatles fans,USA,0.0,0.0,0.0,2021-12-11,cleaned,"['Music History', 'Podcasts', 'Music']",Clean,6,False
+Something Will Happen: A Beatles Music Festival Podcast,USA,0.0,0.0,0.0,2023-05-18,cleaned,"['Music', 'Podcasts']",Clean,47,False
+The Fools On The Hill: A Beatles/Solo Beatles Deep Dive Podcast,USA,0.0,0.0,0.0,2025-11-25,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,8,False
+I Am The Podman: A Beatles Podcast Review,USA,0.0,0.0,0.0,2024-07-03,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music History']",Clean,9,False
+The Pinoy Beatles Podcast,USA,0.0,0.0,0.0,2020-03-14,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,2,False
+The Rolling Beatles,USA,0.0,0.0,0.0,2017-03-06,cleaned,"['Music', 'Podcasts']",Clean,6,False
+Beatles Around The Bush,USA,0.0,0.0,0.0,2023-11-21,explicit,"['Music History', 'Podcasts', 'Music']",Explicit,13,False
+TheBeatlesandScud,USA,0.0,0.0,0.0,2024-04-27,explicit,"['Hobbies', 'Podcasts', 'Leisure']",Explicit,101,False
+The Woke Marketer,USA,0.0,0.0,0.0,2024-06-14,cleaned,"['Marketing', 'Podcasts', 'Business']",Clean,8,False
+Untitled Beatles Podcast,USA,0.0,0.0,0.0,2025-11-15,explicit,"['Music Commentary', 'Podcasts', 'Music', 'Comedy', 'Improv']",Explicit,300,False
+Beatles Books,USA,0.0,0.0,0.0,2025-10-24,cleaned,"['Books', 'Podcasts', 'Arts', 'Music']",Clean,96,False
+I’ve Got a Beatles Podcast!,USA,0.0,0.0,0.0,2025-10-30,cleaned,"['Music Commentary', 'Podcasts', 'Music', 'Music Interviews']",Clean,30,False
+Blotto Beatles,USA,0.0,0.0,0.0,2025-11-20,explicit,"['Music Commentary', 'Podcasts', 'Music', 'Comedy']",Explicit,114,False
+Glass Onion Beatles Podcast,USA,0.0,0.0,0.0,2025-11-17,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,87,False
+My Favourite Beatles Song,USA,0.0,0.0,0.0,2025-11-20,cleaned,"['Music Commentary', 'Podcasts', 'Music']",Clean,62,False
+YOU CAN TALK TO ME - A Beatles Podcast,USA,0.0,0.0,0.0,2025-10-12,cleaned,"['Music', 'Podcasts']",Clean,26,False
+Winter of Discontent - A Beatles Podcast,USA,0.0,0.0,0.0,2024-09-12,explicit,"['Music History', 'Podcasts', 'Music']",Explicit,57,False
+I'll Follow The Sun (Remastered 2009),USA,,,,1964-12-04,notExplicit,,,24,True
+In My Life (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+Roll Over Beethoven (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+Love Me Do (2023 Mix),USA,,,,2023-11-02,notExplicit,,,24,True
+"Some Other Guy (Live At The BBC For ""Easy Beat"" / 23rd June, 1963)",USA,,,,1994-11-30,notExplicit,,,24,True
+I'll Get You (Remastered 2009),USA,,,,1963-08-23,notExplicit,,,24,True
+Long Tall Sally (Remastered 2009),USA,,,,1964-06-19,notExplicit,,,24,True
+Twist And Shout (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+Please Mister Postman (Remastered 2009),USA,,,,1963-11-22,notExplicit,,,24,True
+I Want To Hold Your Hand (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+I Saw Her Standing There (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+A Hard Day's Night (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+Can't Buy Me Love (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+I'll Be Back (Remastered 2009),USA,,,,1964-07-10,notExplicit,,,24,True
+You Can't Do That (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+Money (That's What I Want) [Remastered 2009],USA,,,,1963-11-22,notExplicit,,,24,True
+Please Please Me (Remastered 2009),USA,,,,1963-01-11,notExplicit,,,24,True
+From Me To You (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+I Wanna Be Your Man (Remastered 2009),USA,,,,1963-11-22,notExplicit,,,24,True
+This Boy (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+One After 909 (2021 Mix),USA,,,,1970-05-08,notExplicit,,,24,True
+All My Loving (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+She Loves You (2023 Mix),USA,,,,2023-11-10,notExplicit,,,24,True
+Any Time At All (Remastered 2009),USA,,,,1964-07-10,notExplicit,,,24,True
+Yesterday,USA,12.99,1.29,,1965-08-06,notExplicit,,,14,True
+Here Comes the Sun,USA,12.99,1.29,,1969-09-26,notExplicit,,,17,True
+In My Life,USA,12.99,1.29,,1965-12-03,notExplicit,,,14,True
+Here Comes The Sun (Take 9),USA,24.99,1.29,,1969-09-26,notExplicit,,,36,True
+Hey Jude,USA,19.99,1.29,,1968-08-26,notExplicit,,,14,True
+Let It Be,USA,12.99,1.29,,1970-03-06,notExplicit,,,12,True
+Come Together,USA,12.99,1.29,,1969-09-26,notExplicit,,,17,True
+Blackbird,USA,19.99,1.29,,1968-11-22,notExplicit,,,17,True
+Twist and Shout,USA,12.99,1.29,,1963-03-22,notExplicit,,,14,True
+While My Guitar Gently Weeps,USA,19.99,1.29,,1968-11-22,notExplicit,,,17,True
+"Ob-La-Di, Ob-La-Da",USA,19.99,1.29,,1968-11-22,notExplicit,,,17,True
+I Want to Hold Your Hand,USA,19.99,1.29,,1963-11-29,notExplicit,,,18,True
+Eleanor Rigby,USA,12.99,1.29,,1966-08-05,notExplicit,,,14,True
+Don't Let Me Down,USA,19.99,1.29,,1969-04-11,notExplicit,,,14,True
+Strawberry Fields Forever,USA,12.99,1.29,,1967-02-13,notExplicit,,,11,True
+Help!,USA,12.99,1.29,,1965-07-19,notExplicit,,,14,True
+And I Love Her,USA,12.99,1.29,,1964-07-10,notExplicit,,,13,True
+Something,USA,12.99,1.29,,1969-09-26,notExplicit,,,17,True
+I Saw Her Standing There,USA,12.99,1.29,,1963-03-22,notExplicit,,,14,True
+All My Loving,USA,12.99,1.29,,1963-11-22,notExplicit,,,14,True
+A Hard Day's Night,USA,12.99,1.29,,1964-07-10,notExplicit,,,13,True
+Lucy In the Sky with Diamonds,USA,12.99,1.29,,1967-06-01,notExplicit,,,13,True
+Yellow Submarine,USA,12.99,1.29,,1966-08-05,notExplicit,,,13,True
+Can't Buy Me Love,USA,12.99,1.29,,1964-03-16,notExplicit,,,13,True
+Ticket to Ride,USA,12.99,1.29,,1965-04-09,notExplicit,,,14,True
+"Hello, Goodbye",USA,12.99,1.29,,1967-11-24,notExplicit,,,11,True
+Penny Lane,USA,12.99,1.29,,1967-02-13,notExplicit,,,11,True
+Norwegian Wood (This Bird Has Flown),USA,12.99,1.29,,1965-12-03,notExplicit,,,14,True
+Michelle,USA,12.99,1.29,,1965-12-03,notExplicit,,,14,True
+Eight Days a Week,USA,12.99,1.29,,1964-12-04,notExplicit,,,14,True
+Let It Be (2021 Mix),USA,12.99,1.29,,1970-05-08,notExplicit,,,12,True
+Nowhere Man,USA,12.99,1.29,,1965-12-03,notExplicit,,,14,True
+I Am the Walrus,USA,12.99,1.29,,1967-11-24,notExplicit,,,11,True
+Come Together (2019 Mix),USA,12.99,1.29,,1969-09-26,notExplicit,,,17,True
+Across the Universe,USA,12.99,1.29,,1969-12-12,notExplicit,,,12,True
+The Beatles (George Harrison),USA,8.99,0.99,,2002-09-03,notExplicit,,,13,True
+Get Back,USA,12.99,1.29,,1969-04-11,notExplicit,,,12,True
+Drive My Car,USA,12.99,1.29,,1965-12-03,notExplicit,,,14,True
+In My Life (Take 1),USA,24.99,1.29,,2010-11-16,notExplicit,,,36,True
+Here Comes the Sun (2019 Mix),USA,12.99,1.29,,1969-09-26,notExplicit,,,17,True
+"The Beatles (When Ringo Shook His Mop) [feat. Hamilton Leithauser, Nick Stumpf, Josh Wise & Matt Iwanusa]",USA,9.99,1.29,,2014-05-13,notExplicit,,,10,True
+Here Comes the Sun (2019 Mix),USA,29.99,1.29,,1969-09-26,notExplicit,,,17,True
+A Day In the Life,USA,12.99,1.29,,1967-06-01,notExplicit,,,13,True
+With a Little Help From My Friends,USA,12.99,1.29,,1967-06-01,notExplicit,,,13,True
+Something (2019 Mix),USA,12.99,1.29,,1969-09-26,notExplicit,,,17,True
+I Want to Hold Your Hand,USA,119.99,1.29,,1963-11-29,notExplicit,,,24,True
